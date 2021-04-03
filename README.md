@@ -11,7 +11,7 @@ Sa : Saturday run, this is typically a cycle to Gedling country park and 5k goin
 Su : Sunday run, this is a long run, unweighted going as far as possible beyond 5k
 
 future update:
-automatically record the date if [enter] is pressed with no input
-before exiting it would be good to display some summary stats like the fastest average k date, performance changes and maybe a chart
+Automatically record the date if [enter] is pressed with no input.
+Before exiting it would be good to display some summary stats like the fastest average k date, performance changes and maybe a chart
 
 even better would be to program the whole csv output by directly reading the gps logs from the garmin.
