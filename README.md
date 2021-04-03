@@ -12,5 +12,6 @@ Su : Sunday run, this is a long run, unweighted going as far as possible beyond 
 
 future update:
 automatically record the date if [enter] is pressed with no input
+before exiting it would be good to display some summary stats like the fastest average k date, performance changes and maybe a chart
 
 even better would be to program the whole csv output by directly reading the gps logs from the garmin.
