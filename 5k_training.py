@@ -3,7 +3,7 @@ import statistics
 
 
 #enter date, press enter if todays date
-date = input("date of run (mm/dd/yyyy) :")
+date = input("date of run (dd/mm/yyyy) :")
 
 #1st km minutes
 first_km_min = int(input("how many minutes for first km?"))
